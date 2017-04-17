@@ -1,7 +1,7 @@
 # test coverage for  [email-templates (v2.5.4)](https://github.com/niftylettuce/node-email-templates)  [![npm package](https://img.shields.io/npm/v/npmtest-email-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-email-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-email-templates.svg)](https://travis-ci.org/npmtest/node-npmtest-email-templates)
 #### Node.js module for rendering beautiful emails with ejs, jade, swig, hbs, or handlebars templates and email-friendly inline CSS using juice.
 
-[![NPM](https://nodei.co/npm/email-templates.png?downloads=true)](https://www.npmjs.com/package/email-templates)
+[![NPM](https://nodei.co/npm/email-templates.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/email-templates)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-email-templates/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-email-templates/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-email-templates/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-email-templates/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-email-templates/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-email-templates/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-email-templates/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-email-templates/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-email-templates/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-email-templates/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-email-templates%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-email-templates/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-email-templates/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-email-templates/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-email-templates/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-email-templates%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-email-templates/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-email-templates/build/test-report.html](https://npmtest.github.io/node-npmtest-email-templates/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-email-templates/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-email-templates/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-email-templates/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-email-templates/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-email-templates/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-email-templates/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-email-templates/build/screenCapture.npmPackageListing.svg)
 
@@ -27,40 +33,33 @@
 
 {
     "author": {
-        "name": "Nick Baugh",
-        "email": "niftylettuce@gmail.com"
+        "name": "Nick Baugh"
     },
     "bugs": {
         "url": "https://github.com/niftylettuce/node-email-templates/issues/new"
     },
     "contributors": [
         {
-            "name": "Nick Baugh",
-            "email": "niftylettuce@gmail.com"
+            "name": "Nick Baugh"
         },
         {
-            "name": "Andrea Baccega",
-            "email": "vekexasia@gmail.com"
+            "name": "Andrea Baccega"
         },
         {
             "name": "Nic Jansma",
             "url": "http://nicj.net"
         },
         {
-            "name": "Jason Sims",
-            "email": "sims.jrobert@gmail.com"
+            "name": "Jason Sims"
         },
         {
-            "name": "Miguel Mota",
-            "email": "hello@miguelmota.com"
+            "name": "Miguel Mota"
         },
         {
-            "name": "Jeduan Cornejo",
-            "email": "jeduan@gmail.com"
+            "name": "Jeduan Cornejo"
         },
         {
-            "name": "Alberto Souza",
-            "email": "contato@albertosouza.net"
+            "name": "Alberto Souza"
         }
     ],
     "dependencies": {
@@ -124,21 +123,17 @@
     "main": "lib/main.js",
     "maintainers": [
         {
-            "name": "niftylettuce",
-            "email": "nicholasbaugh@gmail.com"
+            "name": "niftylettuce"
         },
         {
-            "name": "jasonsims",
-            "email": "sims.jrobert@gmail.com"
+            "name": "jasonsims"
         },
         {
-            "name": "jeduan",
-            "email": "jeduan@gmail.com"
+            "name": "jeduan"
         }
     ],
     "name": "email-templates",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/niftylettuce/node-email-templates.git"
